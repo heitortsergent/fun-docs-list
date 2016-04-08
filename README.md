@@ -2,6 +2,9 @@
 
 **:tada: Documentation should be fun!**
 
+Blog Posts:
+- [Writing Great Documentation](https://medium.com/life-tips/writing-great-documentation-44d90367115a#.f606lhnxn) by [@episod](https://medium.com/@episod)
+
 Examples:
 
 - Slack Release Notes
